@@ -1,0 +1,28 @@
+body {
+    font-family: sans-serif;
+    padding: 20px;
+    max-width: 500px;
+    margin: auto;
+    background-color: #fdf6e3;
+  }
+  
+  h1 {
+    text-align: center;
+    color: #333;
+  }
+  
+  li {
+    margin: 12px 0;
+    list-style: none;
+  }
+  
+  input[type="checkbox"] {
+    transform: scale(1.5);
+    margin-right: 12px;
+    cursor: pointer;
+  }
+  
+  span {
+    font-size: 18px;
+  }
+  
