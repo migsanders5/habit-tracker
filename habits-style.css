@@ -25,4 +25,18 @@ body {
   span {
     font-size: 18px;
   }
+  #reset-controls {
+    margin-top: 30px;
+    text-align: center;
+  }
+  
+  button {
+    padding: 8px 14px;
+    font-size: 14px;
+    cursor: pointer;
+  }
+  
+  .reset-mode {
+    background-color: #ffecec;
+  }
   
